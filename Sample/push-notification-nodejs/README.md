@@ -2,7 +2,7 @@
 
 There are sample code for sending push notification in Mesosfer cloud platform using NodeJS. To run this code please follow instruction below.
 
-## Install package
+Install package
 ```bash
 npm install
 ```
