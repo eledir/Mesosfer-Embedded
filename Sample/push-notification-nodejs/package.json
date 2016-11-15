@@ -1,0 +1,14 @@
+{
+  "name": "push-notification",
+  "version": "1.0.0",
+  "description": "Sample apps for push notification using Mesosfer Backend as a Service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mohammad Badrullami",
+  "license": "ISC",
+  "dependencies": {
+    "node-rest-client": "^2.0.1"
+  }
+}
